@@ -9,3 +9,6 @@ C:\Users\andrewcgaitskell\Documents\Code\dashapp1\env\Scripts\activate.bat
 
 C:\Users\andrewcgaitskell\Documents\Code\dashapp1\env\Scripts\python.exe -m pip install --upgrade pip
 
+Activate environment from Project Directory
+
+%CD%/env/Scripts/activate.bat
