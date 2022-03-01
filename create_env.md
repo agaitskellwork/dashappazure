@@ -7,3 +7,5 @@ C:\Users\computer_username\venv\Scripts\activate.bat
 
 C:\Users\andrewcgaitskell\Documents\Code\dashapp1\env\Scripts\activate.bat
 
+C:\Users\andrewcgaitskell\Documents\Code\dashapp1\env\Scripts\python.exe -m pip install --upgrade pip
+
