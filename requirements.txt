@@ -5,7 +5,9 @@ dash-extensions==0.0.71
 dash-html-components==2.0.0
 dash-table==5.0.0
 Flask==2.0.3
+ipython==8.1.0
 jupyter==1.0.0
+jupyter-dash==0.4.1
 numpy==1.22.2
 pandas==1.4.1
 plotly==5.6.0
