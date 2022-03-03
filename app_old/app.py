@@ -4,7 +4,7 @@ from dash import Dash, html, dcc
 
 import notebook_importing
 
-import nbpackage.dashapp as ds
+import dashapp as ds
 
 app = Dash(__name__)
 app.layout = ds.layout
